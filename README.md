@@ -31,7 +31,7 @@ Bu uygulama, daha karmaşık bir uçak rezervasyon sistemi sunar. Kullanıcılar
 
 ## Lisans
 
-Bu projelerin her biri MIT Lisansı altında lisanslanmıştır - ayrıntılar için her projenin kendi README dosyasına bakın.
+Bu projelerin her biri MIT Lisansı altında lisanslanmıştır.
 
 ## İletişim
 
