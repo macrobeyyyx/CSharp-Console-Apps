@@ -1,6 +1,6 @@
 # C# Console Uygulamaları
 
-Merhaba Değerli Geliştiriciler! Bu projede, Java konsol uygulamalarınızı tanıtacağım. Önce bu projeleri çalıştırabilmeniz için gereksinimleri kontrol edelim.
+Merhaba Değerli Geliştiriciler! Bu projede, C# konsol uygulamalarınızı tanıtacağım. Önce bu projeleri çalıştırabilmeniz için gereksinimleri kontrol edelim.
 
 ## Gereksinimler
 
