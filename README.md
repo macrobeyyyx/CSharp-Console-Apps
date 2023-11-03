@@ -11,19 +11,19 @@ Merhaba Değerli Geliştiriciler! Bu projede, Java konsol uygulamalarınızı ta
 
 ### 1. Şifre Oluşturucu (Basit)
 
-Bu basit Java konsol uygulaması, güçlü rastgele şifreler oluşturmanıza yardımcı olur. Kullanıcıdan şifrenin uzunluğunu ve karakter seçeneklerini belirlemesini ister.
+Bu basit CSharp konsol uygulaması, güçlü rastgele şifreler oluşturmanıza yardımcı olur. Kullanıcıdan şifrenin uzunluğunu ve karakter seçeneklerini belirlemesini ister.
 
 ### 2. Sınıf Geçti / Kaldı Hesaplama Sistemi (Basit)
 
-Bu basit Java uygulaması, öğrencilerin sınav notlarına göre dersi geçip geçmediğini hesaplar. Kullanıcıdan notları girmesini ister ve sonucu görüntüler.
+Bu basit CSharp uygulaması, öğrencilerin sınav notlarına göre dersi geçip geçmediğini hesaplar. Kullanıcıdan notları girmesini ister ve sonucu görüntüler.
 
 ### 3. Basit Hesap Makinesi (Orta)
 
-Bu Java konsol uygulaması, kullanıcıların temel matematik işlemlerini yapmalarına olanak tanır. Kullanıcıdan iki sayı girmesini ister ve ardından toplama, çıkarma, çarpma veya bölme işlemini seçmelerini sağlar.
+Bu CSharp konsol uygulaması, kullanıcıların temel matematik işlemlerini yapmalarına olanak tanır. Kullanıcıdan iki sayı girmesini ister ve ardından toplama, çıkarma, çarpma veya bölme işlemini seçmelerini sağlar.
 
 ### 4. Kafe Sistemi (Orta)
 
-Bu Java uygulaması, basit bir kafe yönetim sistemi sunar. Kullanıcı, menü öğelerini görebilir, sipariş verebilir ve hesap detaylarını görüntüleyebilir.
+Bu CSharp uygulaması, basit bir kafe yönetim sistemi sunar. Kullanıcı, menü öğelerini görebilir, sipariş verebilir ve hesap detaylarını görüntüleyebilir.
 
 ### 5. Uçak Rezervasyon Sistemi (Zor)
 
