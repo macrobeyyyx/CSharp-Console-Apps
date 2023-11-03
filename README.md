@@ -1,4 +1,4 @@
-# CSharp Console Uygulamaları
+# C# Console Uygulamaları
 
 Merhaba Değerli Geliştiriciler! Bu projede, Java konsol uygulamalarınızı tanıtacağım. Önce bu projeleri çalıştırabilmeniz için gereksinimleri kontrol edelim.
 
